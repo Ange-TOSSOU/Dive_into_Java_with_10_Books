@@ -1,6 +1,10 @@
 # Breaking the Surface: Dive In: A Quick Dip
 
-## 1st Sharpen your pencil
+## Sharpen Your Pencil Exercises
+- [1st exercise][shpe1]
+- [2nd exercise][shpe2] (DooBee)
+
+## <a name="first_shpe"></a>1st Sharpen exercise
 
 declare an integer variable named 'size' and give it the value 27 <br>
 declare a String variable named 'name' and give it the value "Fido"<br>
@@ -26,4 +30,7 @@ this is all we want to try
 find out whether we were able to find the file<br>
 if not, print out "File not found"<br>
 this is all we want to do if we were not able to find the file<br>
+
+[shpe1]: #first_shpe
+[shpe2]: https://github.com/Ange-TOSSOU/Dive_into_Java_with_10_Books/tree/main/head_first_java/chapter_1/sharpen_your_pencil/DooBee.java
 
